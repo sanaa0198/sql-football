@@ -1,0 +1,5 @@
+INSERT INTO AgeGroups (ID, AgeGroupName)
+VALUES
+(1, 'Under 12'),
+(2, 'Under 8'),
+(3, 'Under 7');
